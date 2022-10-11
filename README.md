@@ -1,4 +1,10 @@
-Sacha SIMON et Thomas HUSSENET
+A simple python bitcoin wallet manager implementing BIP39 & BIP32.
+
+
+
+************************************************************************************************************************************************
+
+
 
 Vous pouvez cloner le code : git clone https://github.com/Sacha924/TD2_BTC_Wallet.git
 puis le run.
